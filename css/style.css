@@ -1,0 +1,20 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.euler-problem {
+  border: 1px solid #000;
+  margin: 10px;
+  padding: 20px 0;
+  border-radius: 5px;
+}
+
+h2 {
+  padding: 10px 0;
+}
+
+.btn-success {
+  padding: 10px 70px;
+  font-size: 1.4em;
+  margin: 20px;
+}
